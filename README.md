@@ -29,13 +29,12 @@ $ git clone git@github.com:Emersonwlw/BackEnd-Rooms-Project.git
 ## Documentação da API
 
 
-```
+
 
 #### Cadastra uma sala
 
 ```http
   POST /api/v1/rooms
-
 ```
 Body
 {
